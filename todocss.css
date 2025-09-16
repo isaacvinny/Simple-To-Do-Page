@@ -14,7 +14,7 @@ body{
     padding-top: 50px   ;
 }
 .container{
-    width: 35%;
+    width: 50%;
     height: fit-content;
     padding: 30px;
     display: flex;
@@ -126,4 +126,5 @@ li.strike span{
     .todo-form input[type="text"]{
         width: 100%;
     }
+
 }
