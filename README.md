@@ -16,6 +16,7 @@ The Todo App allows users to add, manage, and track their tasks in an intuitive 
 - Mark tasks as completed
 - Edit task
 - Delete tasks
+- Local Storage
 - Clean and user-friendly interface
 - Responsive design (mobile, tablet & desktop)
 - Real-time task updates without page refresh
